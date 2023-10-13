@@ -2,3 +2,5 @@
 PROYECTO BLOCKCHAIN
 
 ### INTEGRANTES
+Martinez Herrera Oscar Paul
+
